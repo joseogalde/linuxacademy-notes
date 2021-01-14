@@ -21,7 +21,10 @@ the_sum = reduce(lambda acc, num: acc + num, domain, 0)
 print(the_sum)
 
 #sorted
+print("Words")
 words = ['Monday', 'Jose', 'raspberry', 'super8', 'noteBook']
+print(words);
+
 print("Sorting by default")
 print(sorted(words))
 
