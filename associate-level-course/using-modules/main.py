@@ -1,4 +1,5 @@
-from helpers import extract_lower, extract_upper
+from helpers import *
+from helpers import extract_upper
 
 import extras
 
