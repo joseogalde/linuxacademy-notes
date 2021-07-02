@@ -1,0 +1,3 @@
+# use the following to generate an error in fake.py execution
+# chmod 700 fake.txt
+# sudo chown root:root fake.txt
